@@ -1,7 +1,7 @@
 # ##########################################################################################
 # module        NLP_HW01_Q1_pre_processing
 # ##########################################################################################
-# path          ...\NLP_HW01\src\NLP_HW01_Q1_pre_processing.py
+# path          ...\repository\src\NLP_HW01_Q1_pre_processing.py
 # Purpose       pre-process
 # description   encapsulate pre process code:
 #               HTML pre-process

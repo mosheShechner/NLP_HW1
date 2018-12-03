@@ -1,7 +1,7 @@
 # ##########################################################################################
 # module        NLP_HW01_Q1_language_model
 # ##########################################################################################
-# path          ...\NLP_HW01\src\NLP_HW01_Q1_language_model.py
+# path          ...\repository\src\NLP_HW01_Q1_language_model.py
 # Purpose       Language Model
 # description   encapsulate language model code
 # ##########################################################################################
