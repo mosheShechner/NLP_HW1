@@ -1,7 +1,7 @@
 # ##########################################################################################
 # module        NLP_HW01_Q1_language_model
 # ##########################################################################################
-# path          C:\Users\moshe\PycharmProjects\NLP_HW01\NLP_HW01_Q1_language_model.py
+# path          ...\NLP_HW01\src\NLP_HW01_Q1_language_model.py
 # Purpose       Language Model
 # description   encapsulate language model code
 # ##########################################################################################

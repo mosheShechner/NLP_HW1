@@ -1,7 +1,7 @@
 # ##########################################################################################
 # module        NLP_HW01_Q1_pre_processing
 # ##########################################################################################
-# path          C:\Users\moshe\PycharmProjects\NLP_HW01\NLP_HW01_Q1_pre_processing.py
+# path          ...\NLP_HW01\src\NLP_HW01_Q1_pre_processing.py
 # Purpose       pre-process
 # description   encapsulate pre process code:
 #               HTML pre-process
