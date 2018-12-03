@@ -6,6 +6,6 @@ consists 2 parts:
 2) regression
 
 the project written in an executable Jupyter Notebook;
-in order to use the notebook:
+in order to use the notebook: [TBD - add instructions]
 1) download the src code
 2) run the notebook
