@@ -1,18 +1,16 @@
 # NLP_HW01
-This is a homework assignment of an NLP course of 2018/2019 by Prof. Michael Elhadad, Ben-Gurion University.
+This directory contains a homework assignment of an NLP course of 2018/2019 by Prof. Michael Elhadad, Ben-Gurion University.
 The assingment is described in https://www.cs.bgu.ac.il/~elhadad/nlp19/hw1.html. It consist two parts:
 1) n-gram models
 2) regression
 
-Part 1: n-gram models;
-Notebook:
-/JN/NLP_HW01_ngramLanguageModel.ipynb
+Each part is presented in an html file (of its Jupyter notebooks):
+/html/part1.html
+/html/part2.html
 
-Source code:
+Run/ Reproduce:
+1) Download 'src' directory
 
-
-
-The assingment is written in an executable Jupyter Notebook;
-in order to use the notebook:
-1) download the src code
-2) run the notebook
+2) Run relevant notebook
+part1.ipynb
+part2.ipynb
