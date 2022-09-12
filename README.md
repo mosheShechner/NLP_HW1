@@ -5,12 +5,11 @@ The assingment is described in https://www.cs.bgu.ac.il/~elhadad/nlp19/hw1.html.
 2) regression
 
 Each part is presented in an html file (of its Jupyter notebooks):
-/html/part1.html
-/html/part2.html
+* /html/part1.html
+* /html/part2.html
 
 Run/ Reproduce:
 1) Download 'src' directory
-
-2) Run relevant notebook
-part1.ipynb
-part2.ipynb
+2) Run the relevant notebook: 
+   * part1.ipynb
+   * part2.ipynb
