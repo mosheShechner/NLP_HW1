@@ -4,12 +4,10 @@ The assingment is described in https://www.cs.bgu.ac.il/~elhadad/nlp19/hw1.html.
 1) n-gram models
 2) regression
 
-Each part is presented in an html file (of its Jupyter notebooks):
-* /html/part1.html
-* /html/part2.html
+Each part is presented in a separate Jupyter notebook:
+* /JN/part1.ipynb
+* /JN/part2.ipynb
 
 Run/ Reproduce:
 1) Download 'src' directory
-2) Run the relevant notebook: 
-   * part1.ipynb
-   * part2.ipynb
+2) Run the relevant notebook
