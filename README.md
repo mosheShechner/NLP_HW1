@@ -11,3 +11,5 @@ Each part is presented in a separate Jupyter notebook:
 Run/ Reproduce:
 1) Download 'src' directory
 2) Run the relevant notebook
+
+Implementation: Moshe Noivirt: 2; Moshe Shechner: 1.
